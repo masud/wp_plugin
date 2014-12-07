@@ -1,0 +1,2 @@
+div.ticker{overflow: hidden;}
+div.ticker strong{float: left;background: green;color: black;margin-right: 10px;display: inline-block;padding: 0 5px}
